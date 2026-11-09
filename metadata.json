@@ -1,0 +1,6 @@
+{
+  "name": "AniPulse Stream - Premium Anime Streaming & Creator Studio",
+  "description": "High-fidelity anime streaming platform with 4K HDR playback, VIP membership gateway, creator admin video upload studio with multi-quality tiers, offline downloads, and AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
